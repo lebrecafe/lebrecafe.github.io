@@ -14,3 +14,5 @@
         Header set Cache-Control "max-age=604800, public"
     </filesMatch>
 </ifModule>
+
+Redirect 301 /cardapio.pdf https://www.ifood.com.br/delivery/ourinhos-sp/lebre-cafe-jardim-matilde/6d35ce54-cec3-4f9a-97ba-f18ffc1817f2
